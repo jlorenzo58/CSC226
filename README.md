@@ -1,2 +1,2 @@
 # CSC226
-## hey
+## CSI spring semester 2022
